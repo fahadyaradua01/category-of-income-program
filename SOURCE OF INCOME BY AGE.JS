@@ -1,6 +1,6 @@
 // this code will tell you which category of income are you
-//base on your age 
-let age = prompt("input your age!");
+// base on your age 
+let age = prompt("input your age please!");
 
 //above is a prompt where you will inpuut your age value
 
