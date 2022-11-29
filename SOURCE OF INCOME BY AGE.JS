@@ -1,5 +1,5 @@
-// this code will tell you which category of income are you
-// base on your age 
+// this code will tell you which category of income are you base on your age
+// that is the code will check your age and uses it to predict where do you  mostly get your incomes.
 let age = prompt("input your age please!");
 
 //above is a prompt where you will inpuut your age value
